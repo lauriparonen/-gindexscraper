@@ -1,2 +1,2 @@
 # -gindexscraper
-node.js script that scrapes the current price of the academic elixir, Gambina
+this is a node.js script that scrapes the current price of Gambina from Alko's product page, and logs it to the console along with the current date.
